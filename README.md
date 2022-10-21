@@ -16,7 +16,8 @@ AR模型估计功率谱
 ![image](https://user-images.githubusercontent.com/81954499/197121022-ed0383ff-c443-445b-a854-9c214eea41a3.png)
 
 这是使用matlab的AR模型功率谱估计
-![image](https://user-images.githubusercontent.com/81954499/197121254-4cab9a82-801e-4d99-a577-3fb11b96e181.png)
+![image](https://user-images.githubusercontent.com/81954499/197121401-6a3404e2-cb82-494b-87d9-74f6d3eff840.png)
+
 
 
 AR模型预测功率谱，用的数据为test.txt，若要修改为设置信号
